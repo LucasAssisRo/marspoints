@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>favicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#292929" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="16" height="16" rx="4"></rect>
+        <linearGradient x1="50%" y1="-22.8595005%" x2="50%" y2="124.060195%" id="linearGradient-4">
+            <stop stop-color="#FF7500" offset="0%"></stop>
+            <stop stop-color="#A54C03" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="path1396">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <polyline stroke="url(#linearGradient-4)" stroke-width="0.5" mask="url(#mask-3)" points="11.4624049 5.45425921 12.9956425 5.44972815 13 3.99017829 11.4886808 3.99467564 11.493072 2.51316211 9.99272769 2.5175649 9.98833526 4.01004469 8.52079097 4.01441267 8.52530995 2.5 7.00301622 2.50446765 6.99858997 4.01897325 8.53179661 4.01441122 8.52730872 5.52879273 7.0050459 5.53329136 7.0007802 7.00377614 8.47917503 6.99943822 8.4749106 8.45895674 7.01837213 8.46326113 7.02260437 7.0146779 5.53323464 7.01911038 5.53769289 5.49373163 4.00445552 5.49820056 4 7.00158466 5.54418118 6.99705233 5.53969184 8.52246223 6.99619921 8.51818899 6.99187133 9.98873609 8.52513997 9.98417387 8.52062099 11.4985865 6.98744545 11.5031174 6.98305301 12.9955972 5.48270874 13 5.48719808 11.4745901"></polyline>
+        </g>
+    </g>
+</svg>
